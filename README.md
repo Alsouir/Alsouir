@@ -13,8 +13,6 @@
 
 - 👀 Developer, programmer C/C++
 
-- 📖 Little experience with Java, Spring Boot, REST Service
-
 - ⚡️ Interested in C/C++ development
 
 - 🤓 I like being up-to-date with new technologies, devices, reading tech articles and always studying new things
