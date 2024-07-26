@@ -24,14 +24,14 @@
 <!--- src:https://icons8.com/ ---->
 
 <div style="margin-bottom: 5px">
- <img align="top" src="imgs/telegram-app.svg"> 
+ <img align="top" src="src/telegram-app.svg"> 
   <a href="https://t.me/AlsIbr">@AlsIbr</a>
 </div>
 
 <p></p>
 
 <div style="display: flex; align-items: center; margin-bottom: 5px">
- <img align="top" src="imgs/mail-25.svg"> 
+ <img align="top" src="src/mail-25.svg"> 
   <a href="mailto:alsouir@mail.ru">alsouir@mail.ru</a>
 </div>
 
@@ -53,5 +53,6 @@
 </div>
 
 <p></p>
+
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alsouir&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
