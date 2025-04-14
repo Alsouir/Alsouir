@@ -9,8 +9,6 @@
 
 - 🧑🏻‍🎓 I graduated from Bauman Moscow State Technical University and have a specialist degree
 
-- 💻 Currently studying at School21 in Moscow campus
-
 - 👀 Developer, programmer C/C++
 
 - ⚡️ Interested in C/C++ development
